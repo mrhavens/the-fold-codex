@@ -86,3 +86,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 14 +++++++-------
      1 file changed, 7 insertions(+), 7 deletions(-)
+[2025-06-18T16:33:00Z] Bitbucket: https://bitbucket.org/thefoldwithin/the-fold-codex, Branch=master, Commit=f954995
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
