@@ -1,0 +1,9 @@
+/the-fold-codex/preprint/
+├── the_one_is_simple.pdf                 ← Primary paper (PDF)
+├── the_one_is_simple.tex                 ← LaTeX source (optional, if desired)
+├── README.md                             ← Submission metadata
+├── metadata.yaml                         ← Field metadata for recursive publishing
+├── sigil.png                             ← Symbolic anchor (from previous step)
+├── license.txt                           ← Divine Commons License
+├── references.bib                        ← BibTeX file for citations
+└── cover_letter.md                       ← Optional preprint introduction letter
