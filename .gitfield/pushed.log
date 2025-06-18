@@ -11,3 +11,8 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 67 ++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 67 insertions(+)
+[2025-06-18T16:06:20Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/the-fold-codex, Branch=master, Commit=f954995
+  Diff Summary:
+     .gitfield/.radicle-push-state | 1 +
+     .gitfield/pushed.log          | 6 ++++++
+     2 files changed, 7 insertions(+)
