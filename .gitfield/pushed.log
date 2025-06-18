@@ -90,3 +90,7 @@
   Diff Summary:
      .gitfield/bitbucket.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-18T16:33:45Z] GitHub: https://github.com/mrhavens/the-fold-codex, Branch=master, Commit=f954995
+  Diff Summary:
+     .gitfield/github.sigil.md | 16 ++++++++--------
+     1 file changed, 8 insertions(+), 8 deletions(-)
