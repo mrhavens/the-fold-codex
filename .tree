@@ -1,0 +1,15 @@
+/the-fold-codex
+├── README.md
+├── axioms/
+│   ├── theorem-of-recursive-simplicity.md   ← (This document)
+│   └── ...
+├── unifying-intelligence/
+├── recursive-coherence-theory/
+├── the-fold-within/
+├── mobius-cosmology/
+├── thoughtprint-model/
+├── scrolls/
+│   ├── the-fold-within/
+│   │   └── 00_the_law_of_recursive_simplicity.md   ← (alternate placement)
+├── timeline.md
+└── index.yaml
