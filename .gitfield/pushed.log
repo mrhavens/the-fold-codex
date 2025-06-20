@@ -108,3 +108,7 @@
   Diff Summary:
      .gitfield/remember.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-20T19:44:46Z] Codeberg: https://codeberg.org/mrhavens/the-fold-codex, Branch=master, Commit=c5d6819
+  Diff Summary:
+     .gitfield/codeberg.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
