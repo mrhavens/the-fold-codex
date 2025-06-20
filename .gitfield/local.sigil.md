@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/the-fold-codex`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-18 11:26:09`
+- **Repo Created**: `2025-06-20 14:40:10`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-18 11:26:09`
-- **Last Commit SHA**: `d0cb0f0a6006a81dd1f09df1ca234ceff55d0808`
-- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-18T15:47:13Z`
+- **This Commit Timestamp**: `2025-06-20 14:40:10`
+- **Last Commit SHA**: `348745681ca925ba7b32229cb6e6f70ef1d23111`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-20T19:35:50Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 18 11:25:44 2025 -0500`
+- **Last Commit Date**: `Fri Jun 20 14:39:53 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `67`
-- **Tracked Files**: `69`
+- **Total Commits**: `90`
+- **Tracked Files**: `70`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 5 hours, 15 minutes`
-- **MAC Address**: `00:15:5d:7e:60:a9`
+- **System Uptime**: `up 1 hour, 11 minutes`
+- **MAC Address**: `00:15:5d:c0:f2:fc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
